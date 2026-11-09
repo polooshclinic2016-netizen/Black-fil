@@ -1,4 +1,4 @@
-name: Build Black Flick APK
+name: Build Revan Flick APK
 
 on:
   push:
