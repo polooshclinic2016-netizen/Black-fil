@@ -43,7 +43,7 @@ jobs:
       - name: Grant Execute Permission
         run: chmod +x gradlew
 
-      - name: Compile Black Flick APK
+      - name: Compile Revan Flick APK
         run: ./gradlew assembleDebug --no-daemon
 
       - name: Upload Black Flick APK
